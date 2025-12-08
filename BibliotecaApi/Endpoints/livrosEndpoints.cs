@@ -1,9 +1,5 @@
 using System;
 
-class Program
+public class LivrosEndpoints
 {
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
 }
